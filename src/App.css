@@ -1,0 +1,40 @@
+.App {
+  background-color: #cba26b;
+  margin: 0px;
+  min-height: 100vh;
+}
+
+.App h1 {
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.search-form {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+
+.search-button{
+  border: none;
+  padding: 10px 20px;
+  background-color: gainsboro;
+}
+
+.search-button:hover{
+  cursor: pointer;
+}
+
+.recipes {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,21 @@
+.recipe-details{
+    border: 1px solid black;
+    border-radius: 13px;
+    padding: 34px;
+    text-align: center;
+    margin-top: 44px;
+    box-shadow: 6px 5px;
+}
+
+.recipe-details img{
+    border: 2px solid;
+    border-radius: 150px;
+}
+
+.recipe-details ol{
+    border: 1px solid black;
+}
+
+.recipe-details p{
+    font-weight: bold;
+}
